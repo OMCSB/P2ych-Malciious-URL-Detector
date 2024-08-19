@@ -31,6 +31,9 @@ Clone this Github Repository to your local machine
 git clone https://github.com/OMCSB/Malicious-URL-Detector.git
 ```
 
+> [!IMPORTANT]
+> Run the training.ipynb once
+
 Open `chrome://extensions`
 ![Opening chrome://extensions](./readme_img/openChromeExtension.png "Opening chrome://extensions")
 
